@@ -1,2 +1,2 @@
-# Openthink
-R&amp;D repository for Applied AI
+# Initial page
+
