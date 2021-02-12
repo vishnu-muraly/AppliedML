@@ -25,11 +25,12 @@
 * [Flask](ml-with-aws/flask.md)
 * [Docker](ml-with-aws/docker.md)
 
-## Model Deployment
+## ML with Cloud <a id="model-deployment"></a>
 
-* [Git](model-deployment/git.md)
-* [Flask](model-deployment/flask.md)
-* [Docker](model-deployment/docker.md)
+* [Introduction to AWS](model-deployment/git.md)
+* [EC2, S3 and Lambda](model-deployment/flask.md)
+* [Sagemaker](model-deployment/docker.md)
+* [Serverless deployment](model-deployment/serverless-deployment.md)
 
 ## Spark ML
 
