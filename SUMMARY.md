@@ -24,17 +24,13 @@
 * [Git](ml-with-aws/git.md)
 * [Flask](ml-with-aws/flask.md)
 * [Docker](ml-with-aws/docker.md)
-
-## ML with Cloud <a id="model-deployment"></a>
-
-* [Introduction to AWS](model-deployment/git.md)
-* [EC2, S3 and Lambda](model-deployment/flask.md)
-* [Sagemaker](model-deployment/docker.md)
-* [Serverless deployment](model-deployment/serverless-deployment.md)
+* [Deploy to AWS](ml-with-aws/deploy-to-aws.md)
 
 ## Spark ML
 
-* [Apache Spark](spark-ml/apache-spark.md)
+* [Introduction to Spark](spark-ml/apache-spark.md)
+* [PySpark](spark-ml/pyspark.md)
+* [Azure data bricks](spark-ml/azure-data-bricks.md)
 
 ## ML Engineering
 
