@@ -1,6 +1,8 @@
 # Table of contents
 
-* [About the Course](README.md)
+* [About the Bootcamp](README.md)
+* [Course Outline](course-outline.md)
+* [How to apply ?](how-to-apply.md)
 
 ## Statistics <a id="first"></a>
 
