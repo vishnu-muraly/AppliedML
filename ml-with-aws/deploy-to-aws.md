@@ -1,2 +1,2 @@
-# Deploy to AWS
+# Serverless deployment to AWS
 

@@ -1,2 +1,2 @@
-# Git
+# CI/CD with Git
 

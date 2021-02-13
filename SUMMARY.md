@@ -23,10 +23,10 @@
 
 ## Model Deployment <a id="ml-with-aws"></a>
 
-* [Git](ml-with-aws/git.md)
-* [Flask](ml-with-aws/flask.md)
-* [Docker](ml-with-aws/docker.md)
-* [Deploy to AWS](ml-with-aws/deploy-to-aws.md)
+* [CI/CD with Git](ml-with-aws/git.md)
+* [REST API with Flask](ml-with-aws/flask.md)
+* [Containerize with Docker](ml-with-aws/docker.md)
+* [Serverless deployment to AWS](ml-with-aws/deploy-to-aws.md)
 
 ## Spark ML
 
