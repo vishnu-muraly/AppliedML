@@ -1,2 +1,0 @@
-# CI/CD with Git
-

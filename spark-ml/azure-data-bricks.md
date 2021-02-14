@@ -1,2 +1,0 @@
-# Azure data bricks
-
